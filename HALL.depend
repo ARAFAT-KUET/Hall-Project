@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1762538925 source:e:\project 24\hall\main.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+
+1762493419 source:e:\project 24\hall\login page.c
+
+1762493254 e:\project 24\hall\login page.h
+
+1762540928 source:e:\project 24\hall\login.c
+	<stdio.h>
+	"sign_up.h"
+	"login_page_student.h"
+
+1762541210 e:\project 24\hall\login.h
+
+1762588971 source:e:\project 24\hall\sign_up.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762541210 e:\project 24\hall\sign_up.h
+
+1762593049 source:e:\project 24\hall\login_page_student.c
+	<stdio.h>
+	<string.h>
+
+1762541210 e:\project 24\hall\login_page_student.h
+
+1762593041 source:e:\project 24\hall\student_profile.c
+
+1762593041 source:e:\project 24\hall\after_student_login.c
+
